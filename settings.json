@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "paimonciya",
+    "username": "moon",
     "password": "",
     "type": "offline"
   },
@@ -32,8 +32,8 @@
       "repeat-delay": 120,
       "messages": [
         "aku adalah afk bot",
-        "ayo semangat tamatin gamenyaa!!!",
-        "kamu pasti bisaaa"
+        "...",
+        "..."
       ]
     },
     "chat-log": true,
